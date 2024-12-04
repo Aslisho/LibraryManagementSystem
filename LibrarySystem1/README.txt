@@ -62,14 +62,7 @@ Built using Java Swing with:
 - Java SE Development Kit (JDK)
 - Java Swing Library
 
-## Authors
-- Baidya Joydeep
-- Elijah Junior Integrity  
-- Habib Muhammad Tijjani
-- Saha Pritom
-- Zidan Abdullah Al
-- MD SAJIN MAZBA ERAM
-- Yusuf Abdulrahman Musa
+## Author
 - Muzofirshoev Aslisho
 
 ## Copyright
